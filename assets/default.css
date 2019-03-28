@@ -1,0 +1,35 @@
+body {
+    font-family: 'Germania One', cursive;
+}
+
+div#container {
+    text-align: center;
+    margin-top: 20px;
+}
+div#koonta {
+    font-weight: bold;
+    font-size: 30pt;
+}
+div#description {
+    font-size: 20pt;
+    margin-top: 5px;
+}
+
+div#buttons {
+    margin-top: 7px;
+}
+
+button {
+    border: none;
+    margin: 3px;
+    padding: 7px 13px;
+    font-size: 13pt;
+    
+    border: 1px solid black;
+    
+    background-color: transparent;
+    
+    cursor: pointer;
+    
+    font-family: "Nanum Gothic", sans-serif;
+}
